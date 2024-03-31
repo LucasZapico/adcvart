@@ -1,5 +1,5 @@
 main:
 	python main.py
 
-build:
+build_bin:
 	pyinstaller --onefile main.py
